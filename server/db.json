@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "dbe4",
+      "name": "Raghul",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwB4qrJMYQqBr3g8fE4KzDiLnKNZB9Tbvkw&s",
+      "mobile": "9736589756",
+      "email": "Raghul.22ece@kongu.edu",
+      "company": "INFOSYS",
+      "title": "Software",
+      "groupId": "2"
+    },
+    {
+      "id": "ec9c",
+      "name": "Yokesh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppkoKsaYMuIoNLDH7O8ePOacLPG1mKXtEng&s",
+      "mobile": "9758453780",
+      "email": "yokesh@gmail.com",
+      "company": "YouTube",
+      "title": "content creator",
+      "groupId": "2"
+    },
+    {
+      "id": "2317",
+      "name": "PAANDI V",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukleU1059SFH-flP36qRWECpm9pQfQ7f50Q&s",
+      "mobile": "9876598765",
+      "email": "paandi@gmail.com",
+      "company": "INFOSYS",
+      "title": "Software Engineer",
+      "groupId": "2"
+    },
+    {
+      "id": "cac6",
+      "name": "Tarun",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnBLMyaL-5gh0nhP-vircgmtkHER58KHoMAw&s",
+      "mobile": "981642364",
+      "email": "tarun@gmail.com",
+      "company": "cinema",
+      "title": "actor",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
